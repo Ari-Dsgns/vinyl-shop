@@ -13,9 +13,9 @@
 }
 
 #cuenta-carrito {
-  background-color: rgba(105, 105, 105, 0.993);
+  background-color: rgba(143, 143, 143, 0);
   border-radius: 50%;
-  border: white 2px solid;
+  border: none;
   display: inline-block;
   width: 24px;
   height: 24px;
@@ -23,9 +23,9 @@
   text-align: center;
   position: relative;
   top: -12px;
-  right: 8px;
+  right: 6px;
   font-weight: 500;
-  font-size: 10px;
+  font-size: 16px;
   color: white;
 
   -webkit-animation: wobble-hor-bottom 0.8s both;
